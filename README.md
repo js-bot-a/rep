@@ -1,3 +1,3 @@
-#My first repositiry
+#My first repository
 
 Description ... about
